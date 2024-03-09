@@ -1,0 +1,30 @@
+.divpaiA{
+    background-color: #f3a704fd; 
+    width: 500px; 
+    height: 500px; 
+}
+
+.divfilhoA{
+    background-color: #22eb4dfd; 
+    height: 50%; 
+    width: 50%
+}
+
+.paragrafo{
+    color:white; 
+    background-color: red; 
+    font-size: 25px; 
+    font-family: monospace;
+}
+
+.divpaiB{
+    height: 50vh; 
+    width: 50%; 
+    background-color: rgb(173, 216, 230);
+}
+
+.divfilhoB{
+    height: 75%; 
+    width: 50%; 
+    background-color: rgb(148, 0, 211);
+}
